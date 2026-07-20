@@ -44,7 +44,7 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/flo-learn/flo-learn/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/flo-learn/flo-learn/snake-output/snake.svg" alt="Snake animation">
 
 ###
 
